@@ -1,4 +1,4 @@
-# MySolution
+# WPF MVVM with Clean Architecture
 
 A sample C# WPF solution template that implements MVVM and Clean Architecture.
 
