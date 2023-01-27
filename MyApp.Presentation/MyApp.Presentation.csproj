@@ -8,7 +8,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="ViewModels" />
+      <ProjectReference Include="..\MyApp.Core\MyApp.Core.csproj" />
+      <ProjectReference Include="..\MyApp.Infrastructure\MyApp.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
